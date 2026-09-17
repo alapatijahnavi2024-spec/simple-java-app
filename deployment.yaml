@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: YOUR_DOCKERHUB_USERNAME/java-app:latest
+        image: 24mis0139/java-app:latest
 
 ---
 apiVersion: v1
